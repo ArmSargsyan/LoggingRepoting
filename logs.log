@@ -1,0 +1,15 @@
+2022-07-04 20:04:53,712 TRACE Test [main] trace
+2022-07-04 20:04:53,727 DEBUG Test [main] debug
+2022-07-04 20:04:53,727 INFO Test [main] info
+2022-07-04 20:04:53,727 WARN Test [main] warn
+2022-07-04 20:04:53,727 ERROR Test [main] error
+2022-07-04 20:11:51,116 TRACE Test [main] trace
+2022-07-04 20:11:51,116 DEBUG Test [main] debug
+2022-07-04 20:11:51,116 INFO Test [main] info
+2022-07-04 20:11:51,116 WARN Test [main] warn
+2022-07-04 20:11:51,116 ERROR Test [main] error
+2022-07-04 20:23:20,273 TRACE Test [main] trace
+2022-07-04 20:23:20,289 DEBUG Test [main] debug
+2022-07-04 20:23:20,289 INFO Test [main] info
+2022-07-04 20:23:20,289 WARN Test [main] warn
+2022-07-04 20:23:20,289 ERROR Test [main] error1 is not found
